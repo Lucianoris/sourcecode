@@ -3,7 +3,7 @@
  
 
 # What is WRTC?
-worthless is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, worthless coin (worthless) is unique in its distribution. 
+Worthless Coin is a blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, Worthless Coin (WRTC) is unique in its distribution. 
 
 <a name="specifications"></a>
 ## Technical Specifications
